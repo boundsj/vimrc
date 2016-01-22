@@ -1,7 +1,7 @@
 # vimrc
 This one is mine.
 
-- [ ] clone
+- [ ] clone as .vim
 - [ ] submodule init && submodule update
-- [ ] symlink .vimrc to user root
+- [ ] ls -sf .vim/.vimrc to ~/.vimrc
 - [ ] brew install macvim
